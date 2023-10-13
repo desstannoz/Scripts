@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name
-// @namespace
+// @name       ytnk automation
+// @namespace ytnk
 // @version      0.1
 // @description  Automation for ytnk
 // @author       Kazim Ozkurt
