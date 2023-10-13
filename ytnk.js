@@ -16,5 +16,6 @@
       document.querySelector(".swal-button.swal-button--nextone").click();
     } catch {}
     document.querySelector("video").play();
+    document.querySelector("video").play();
   }, 4000);
 })();
